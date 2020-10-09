@@ -1,0 +1,23 @@
+#title {
+  font-family: arial, sans-serif;
+}
+
+#lists {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border: 1px solid #000;
+  width: 100%;
+}
+
+#lists tr{background-color: #FF7F50;}
+
+#lists tr:hover {background-color: #ddd; cursor: pointer;}
+
+#lists th {
+  background-color: #AAAAAA;
+}
+
+.tableWrapper {
+  margin: 20px auto;
+  width: 700px;
+  padding: 20px;
+}
